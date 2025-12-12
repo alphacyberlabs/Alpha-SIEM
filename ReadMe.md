@@ -25,6 +25,6 @@
 - Cloud APIs
 - Sigma rule format support
 
-Note: features may be edited or deleted as the project commences.
+Note: features may be added or deleted as the project commences.
 
 ----------------------------
